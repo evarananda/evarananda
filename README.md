@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Eva 👋
 
-<!--
-**evarananda/evarananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **cybersecurity portfolio**.  
+Here you’ll find:
+- 🧪 **Hands-on projects** – lab work, SOC experiments, automation scripts  
+- 🕵️ **CTF writeups** – Hack The Box (retired) and other challenge walkthroughs  
+- 🔍 **Digital forensics notes** – PCAP analysis, log investigations, memory triage  
 
-Here are some ideas to get you started:
+I enjoy sharing both the **red team perspective** (attacker mindset) and the **blue team perspective** (defender’s view, detection rules, IR workflows). Please feel free to suggest new ideas or labs I should explore!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Certifications
+- CompTIA **Security+**  
+- AWS **Cloud Practitioner**  
+- eLearnSecurity **Junior Penetration Tester (eJPT)**  
+
+---
+
+### 📫 Connect
+- Blog: [whilewaitingforinterview](https://evarananda.github.io)  
+- LinkedIn: *add link here*  
+- GitHub Projects: see pinned repos below 👇  
+
+---
