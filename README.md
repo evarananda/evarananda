@@ -14,7 +14,7 @@ My work focuses on building structured workflows, maintaining clear technical do
 
 ### Microsoft 365 Governance & Automation Work:
 - [User & Device Onboarding: Entra ID](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/1.%20Modern%20User%20%26%20Device%20Onboarding%20Framework.pdf)
-- [Exchange Online Governance & Mail Flow Security: Exchange, Outlook](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/2.%20Exchange%20Online%20Governance%20%26%20Mail%20Flow%20Security.pdf)
+- [Exchange Online Governance & Mail Flow Security: Exchange, Purview, Outlook](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/2.%20Exchange%20Online%20Governance%20%26%20Mail%20Flow%20Security.pdf)
 - [Project Collaboration & Workflow Automation: Teams, SharePoint, Power Automate, Forms](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/3.%20Modern%20Project%20Collaboration%20%26%20Workflow%20Automation.pdf)
 - [Bid Invitation Logging Automation with SharePoint and Power Automate](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/SharePoint%20Automation%20-%20Bid%20Invitation%20Logging%20(with%20sample%20data).jpg)
 - [Daily Email Notification for Deleted Items in SharePoint](https://github.com/evarananda/microsoft-365-governance-and-automation-projects/blob/main/SharePoint%20Automation%20-%20Daily%20Email%20Notification%20for%20Deleted%20Items%20(with%20sample%20data).jpg)
