@@ -21,6 +21,7 @@ My work focuses on building structured workflows, maintaining clear technical do
 
 ### Business App Development:
 - [Leave Management System with Power Apps](https://github.com/evarananda/leave-management-system-powerapps)
+- [Helpdesk Ticketing System with Power Apps](https://github.com/evarananda/Helpdesk-Ticketing-System-PowerApps)
 
 ### Active Directory Projects:
 - [Active Directory Hands-On (Part 1): Connecting a Client to the Domain Controller, Managing Users & Groups, and Understanding File Permissions](https://www.linkedin.com/pulse/active-directory-hands-on-part-1-connecting-client-domain-ananda-fq9gc/)
