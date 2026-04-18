@@ -27,6 +27,11 @@ My work focuses on building structured workflows, maintaining clear technical do
 ### Active Directory Projects:
 - [Active Directory Hands-On (Part 1): Connecting a Client to the Domain Controller, Managing Users & Groups, and Understanding File Permissions](https://www.linkedin.com/pulse/active-directory-hands-on-part-1-connecting-client-domain-ananda-fq9gc/)
 - [Active Directory Hands-On (Part 2): File Permissions and GPOs](https://www.linkedin.com/pulse/active-directory-hands-on-part-2-file-permissions-gpos-ananda-ezkse/)
+
+### Data Visualization
+- [Unicorn Data (2023) - Web Scraping Python Code](https://github.com/evarananda/unicorn-webscraping)
+- [Unicorn Data (2023) - Visualization in Tableau](https://public.tableau.com/app/profile/eva.ananda/viz/UnicornVisualizationNew/UnicornDashboard)
+
 ---
 
 ### 🎓 Certifications
